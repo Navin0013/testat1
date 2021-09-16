@@ -4,7 +4,7 @@ import sqlite3
 #
 #-*- coding: utf-8 -*-
 #
-
+#rrr
 class sql_setup:
     def __init__(self, pfad=str):
         pfad = "{0}/datenbank.db".format(pfad)
