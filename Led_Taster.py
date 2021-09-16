@@ -3,6 +3,7 @@ import time
 import sqlite3
 #
 #-*- coding: utf-8 -*-
+#
 
 class sql_setup:
     def __init__(self, pfad=str):
